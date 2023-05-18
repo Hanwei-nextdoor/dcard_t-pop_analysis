@@ -1,0 +1,2 @@
+# dcard_t-pop_analysis
+利用Selenium爬取Dcard論壇上台語歌之討論，並利用api下載之檔案分析文章留言
