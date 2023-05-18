@@ -3,7 +3,6 @@
 ## Ver 1.0
 
 利用 Selenium 爬取 Dcard 論壇上台語流行音樂之討論，並利用 API 下載之檔案分析文章留言
------ 
 
 ## 專案執行摘要 Executive Summary
 
